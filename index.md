@@ -7,4 +7,5 @@ y permanecen en el dispositivo del usuario.
 
 La aplicación no comparte información con terceros.
 
-Si tienes alguna pregunta sobre esta política de privacidad, puedes contactarnos.
+Si tienes alguna pregunta sobre esta política de privacidad, puedes contactarnos en:
+corilloapp@gmail.com
